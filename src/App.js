@@ -10,7 +10,7 @@ import Contacts from './components/contacts';
 
 
 const headers = [
-  'Обо мне',
+  'О нас',
   'Меню',
   'Вкусы',
   'Варианты оформления',
